@@ -1,0 +1,8 @@
+var pi as 3.1415;
+var x as 1.5;
+print pi;
+if pi > 3 then
+  repeat 3 times
+     print pi+10+x;
+  endrepeat
+endif
